@@ -1,0 +1,25 @@
+.Color-change{
+  
+  width: 100%;
+  height: 100%;
+  animation-duration: 200s;
+}
+
+.NavBar{
+  margin-bottom: 100px;
+  background-color: black;
+  width: 80px;
+bottom: 80%;
+  
+
+}
+.Button{
+  border-radius: 5px;
+  flex: 1;
+  margin: 10px;
+  padding-left: 7px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  background-color:aqua
+}
